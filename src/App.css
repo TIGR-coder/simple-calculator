@@ -46,7 +46,6 @@
 		"one two three plus"
 		"zero zero dot equal";
 	grid-gap: 7px;
-	/* padding: 10px; */
 	justify-items: center;
 	align-items: center;
 }
@@ -79,9 +78,6 @@
 
 .bg-orange {
 	background-color: #ff9501;
-}
-
-.btn.ac {
 }
 
 .btn.plus-minus {
